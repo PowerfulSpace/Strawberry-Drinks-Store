@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PS.Strawberry_Drinks_Store.Web", "PS.Strawberry_Drinks_Store.Web", "{1F28C3FD-4864-4AEA-ACB3-BCFA1BBFAB03}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {658228A6-9CCC-49AD-986E-7A63B468C9BB}
+	EndGlobalSection
+EndGlobal
