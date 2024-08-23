@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PS.Strawberry_Drinks_Store.DAL\PS.Strawberry_Drinks_Store.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Definitions\DbContext\" />
+    <Folder Include="Definitions\DependencyInjection\" />
+    <Folder Include="Definitions\Localization\" />
   </ItemGroup>
 
 </Project>
