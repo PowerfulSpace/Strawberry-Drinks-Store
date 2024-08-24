@@ -7,13 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PS.Strawberry_Drinks_Store.DAL\PS.Strawberry_Drinks_Store.DAL.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Definitions\DbContext\" />
     <Folder Include="Definitions\DependencyInjection\" />
     <Folder Include="Definitions\Localization\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PS.Strawberry_Drinks_Store.Domain\PS.Strawberry_Drinks_Store.Domain.csproj" />
   </ItemGroup>
 
 </Project>
