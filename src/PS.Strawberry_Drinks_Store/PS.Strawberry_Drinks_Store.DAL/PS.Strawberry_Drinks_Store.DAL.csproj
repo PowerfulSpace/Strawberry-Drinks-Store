@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PS.Strawberry_Drinks_Store.Domain\PS.Strawberry_Drinks_Store.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
